@@ -1,0 +1,10 @@
+x = 10
+println(x + 1)
+println(pi)
+println(sqrt(100))
+println(typeof(x))
+println(typemax(Int64))
+println(typemin(Float16), typemax(Float16))
+println(eps(Float64))
+println(erf(1))
+println(sqrt(-2+0im))
